@@ -73,7 +73,7 @@ export const CreateScreenLabels: I18nCreateScreenLabelsInterface = {
       }
     }
   },
-  [createRoomInputPlaceholderText]: 'Meeting ID',
+  [createRoomInputPlaceholderText]: 'Patient ID',
   [createRoomMakeEveryOneCoHost]: 'Make everyone a Co-Host',
   [createRoomMakeEveryOneCoHostTooltipText]:
     'Turning on will give everyone the control of this room',
