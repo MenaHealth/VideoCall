@@ -10,3 +10,4 @@ Note:
 2. Run - npm i && npm start (You need NodeJS v18.x or higher version installed on your system)
 3. Select install through the CLI menu
 4. Build for any supported platform
+
