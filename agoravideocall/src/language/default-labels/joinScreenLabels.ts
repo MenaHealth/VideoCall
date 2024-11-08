@@ -39,7 +39,7 @@ export const JoinScreenLabels: I18nJoinScreenLabelsInterface = {
     if (eventMode) {
       return 'Enter Stream ID';
     } else {
-      return 'Enter Patient Video ID';
+      return 'Enter Patient ID';
     }
   },
   [joinRoomBtnText]: ({eventMode}) => (eventMode ? 'Join Stream' : 'Join Room'),
